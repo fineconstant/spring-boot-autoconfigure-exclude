@@ -69,3 +69,5 @@
         // some custom configuration
     }
     ```
+
+* Generate custom configuration properties documentation with `./gradlew kaptKotlin`
