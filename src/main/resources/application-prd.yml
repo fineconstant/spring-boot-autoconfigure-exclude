@@ -1,0 +1,5 @@
+spring:
+  autoconfigure:
+    enable:
+      cassandra: true
+      mongodb: true
